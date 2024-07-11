@@ -1,3 +1,3 @@
 # DEMO
 
-this is a first atempt to create and use a github repository.
+this is a first atempt to create and use a github repository!
